@@ -24,7 +24,7 @@ My two primary repositories operate as an integrated, multi-container Open Banki
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/yamenalwaily) • [yalwaile@gmail.com](mailto:yalwaile@gmail.com)
-## Hi there 👋
+
 
 <!--
 **yamen-alwaily/yamen-alwaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
